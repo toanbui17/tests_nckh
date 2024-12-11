@@ -1,0 +1,7 @@
+{
+    "capture_interval_minutes": 10,
+    "capture_interval_seconds": 0,
+    "checkbox_var_1": true,
+    "checkbox_var_2": true,
+    "checkbox_var_3": true
+}
